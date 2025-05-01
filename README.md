@@ -95,18 +95,6 @@ Supports **manual shutdown** via physical buttons or `"off"` command.
 
 ---
 
-## 📸 System Showcase
-
-### 🏆 Boeing Engineering Expo Poster
-![Boeing Poster](https://github.com/user-attachments/assets/a6fdd0bd-6e05-421a-913c-16d03d0af0df)
-
-
-### 🔧 Real-life Prototype Setup
-![prototype_setup](https://github.com/user-attachments/assets/6d4a44e3-ff60-412f-85ce-bb0afda23f18)
-
-
----
-
 ## 🚨 Reliability Features
 
 - 🔒 Lock files prevent duplicate script execution
