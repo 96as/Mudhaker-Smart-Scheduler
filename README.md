@@ -1,2 +1,6 @@
 # Mudhaker-Smart-Scheduler
-Smart IoT Scheduler Using Raspberry Pi 4
+
+📖 Smart IoT Event & Prayer Reminder System
+
+Prototype for Smart Scheduler Project (Boeing Engineering Student Competition)
+-------------------------------------------------------------------------------
